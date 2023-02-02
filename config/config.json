@@ -3,7 +3,7 @@
     "username": "u267c3attcc65te4",
     "password": "lc0kQOzo5MpoRe6nryGk",
     "database": "blysxjd8cdfv350vcdre",
-    "host": "bw7jdlmazjo8qnenkzag-mysql.services.clever-cloud.com",
+    "host": "blysxjd8cdfv350vcdre-mysql.services.clever-cloud.com",
     "dialect": "mysql"
   },
   "test": {
