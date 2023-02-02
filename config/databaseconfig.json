@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "u8tpox56ij9nsh83",
+    "password": "SS7Hy6ANa3mQVKqIH73F",
+    "database": "btvac4odezceanoyv1sh",
+    "host": "btvac4odezceanoyv1sh-mysql.services.clever-cloud.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "sql6523369",
+    "password": "databaseProductionPassword",
+    "database": "sql6523369 ",
+    "host": "sql6.freemysqlhosting.net",
+    "dialect": "mysql"
+  }
+}
